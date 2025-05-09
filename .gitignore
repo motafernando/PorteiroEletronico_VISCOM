@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+# Ambientes virtuais
+.venv/
+env/
+# Logs e dados gerados
+logs/
+events/
+# Sistema
+.DS_Store
+Thumbs.db
+# não subir fotos de cadastro
+data/faces_autorizadas/
